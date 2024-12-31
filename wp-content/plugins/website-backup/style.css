@@ -1,0 +1,20 @@
+button.download-website {
+  padding: 8px 20px;
+  background: coral;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+button.download-databse {
+  padding: 8px 20px;
+  background: skyblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.main_div {
+  display: flex;
+  gap: 20px;
+}
